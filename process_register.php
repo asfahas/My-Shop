@@ -1,5 +1,5 @@
 <?php
-$serverName = getenv('DB_HOST') ?: "tcp:mycardiffmet.database.windows.net,1433";
+$serverName = getenv('DB_HOST') ?: "ahassan.database.windows.net";
 $database = getenv('DB_NAME') ?: "myDatabase";
 $dbUser = getenv('DB_USER') ?: "myadmin";
 $dbPassword = getenv('DB_PASS') ?: "oA_4)3Zm";
