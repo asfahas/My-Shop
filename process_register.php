@@ -2,7 +2,7 @@
 $serverName = getenv('DB_HOST') ?: "tcp:mycardiffmet.database.windows.net,1433";
 $database = getenv('DB_NAME') ?: "myDatabase";
 $dbUser = getenv('DB_USER') ?: "myadmin";
-$dbPassword = getenv('DB_PASS') ?: "Abcdefgh0!";
+$dbPassword = getenv('DB_PASS') ?: "oA_4)3Zm";
 
 $connectionOptions = array(
     "Database" => $database,
